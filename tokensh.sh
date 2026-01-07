@@ -8,7 +8,7 @@ BOT_TOKEN="8592209633:AAEANR9TVRVkoIN1pH4-Ym89OHYWFnBR5IY"
 CHAT_ID="7964289925"
 
 # === DIRECTORY YANG MAU DI CEK ===
-TARGET_DIR="	/www/wwwroot/ojs.exploverpub.com/"
+TARGET_DIR="	/www/wwwroot/"
 
 # === CEK FILE YANG DIUBAH HARI INI ===
 TODAY=$(date +"%Y-%m-%d")
